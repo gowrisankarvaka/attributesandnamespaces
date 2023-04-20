@@ -6,21 +6,21 @@
         "dateAndTime": "2001-11-29T13:20:00.000-05:00"
       },
       "passenger": {
-        "name": "Åke Jógvan Øyvind"
+        "name": "Gowri Sankar Vaka"
       }
     },
     "Body": {
       "itinerary": {
         "departure": {
-          "departing": "New York",
-          "arriving": "Los Angeles",
+          "departing": "Hyderabad",
+          "arriving": "Gannavaram",
           "departureDate": "2001-12-14",
           "departureTime": "late afternoon",
           "seatPreference": "aisle"
         },
         "return": {
-          "departing": "Los Angeles",
-          "arriving": "New York",
+          "departing": "Gannavaram",
+          "arriving": "Hyderabad",
           "departureDate": "2001-12-20",
           "departureTime": "mid-morning",
           "seatPreference": null
