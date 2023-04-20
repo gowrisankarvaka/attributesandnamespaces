@@ -1,0 +1,34 @@
+{
+  "Envelope": {
+    "Header": {
+      "reservation": {
+        "reference": "uuid:093a2da1-9345-739r-ba5d-pqff98fe8j7d",
+        "dateAndTime": "2001-11-29T13:20:00.000-05:00"
+      },
+      "passenger": {
+        "name": "Åke Jógvan Øyvind"
+      }
+    },
+    "Body": {
+      "itinerary": {
+        "departure": {
+          "departing": "New York",
+          "arriving": "Los Angeles",
+          "departureDate": "2001-12-14",
+          "departureTime": "late afternoon",
+          "seatPreference": "aisle"
+        },
+        "return": {
+          "departing": "Los Angeles",
+          "arriving": "New York",
+          "departureDate": "2001-12-20",
+          "departureTime": "mid-morning",
+          "seatPreference": null
+        }
+      },
+      "lodging": {
+        "preference": "none"
+      }
+    }
+  }
+}
